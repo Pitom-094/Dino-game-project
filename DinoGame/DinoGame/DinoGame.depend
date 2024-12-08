@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727968053 source:/home/arafat/C/DinoGame/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<bits/stdc++.h>
+
+1726256663 source:/home/arafat/C/codeforces/DinoGame/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	<vector>
+
